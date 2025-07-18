@@ -1,3 +1,10 @@
 # Example Second Page
 
-This is an example second page that will appear in the Docsify Sidebar.
+## Serenity
+
+![Serenity_001](images/01_serenity_001.jpg)
+
+---
+## Despair
+
+---
